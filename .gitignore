@@ -1,0 +1,25 @@
+# Credenciales
+.env
+
+# Data lake generado (datos crudos y procesados)
+datalake/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# VS Code (config local del editor)
+.vscode/
